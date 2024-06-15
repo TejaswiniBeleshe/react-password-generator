@@ -1,0 +1,13 @@
+.App{
+  /* border: 1px solid blue; */
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 58vh;
+  margin-top: 9rem;
+}
+.heading{
+  letter-spacing: .6rem;
+}
